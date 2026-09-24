@@ -1,0 +1,21 @@
+# Python
+server/.venv/
+server/__pycache__/
+server/**/__pycache__/
+server/*.py[cod]
+server/**/*.py[cod]
+server/db.sqlite3
+server/.env
+server/staticfiles/
+server/media/
+
+# Angular
+client/node_modules/
+client/dist/
+client/.angular/
+
+# Environment and editor files
+.DS_Store
+.env
+.vscode/
+*.log
